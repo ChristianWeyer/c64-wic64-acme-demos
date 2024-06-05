@@ -1,0 +1,13 @@
+{
+    "name": "Talk-to-TT",
+    "description": "Project Talk-to-TT",
+    "toolkit": "acme",
+    "sources": [
+        "src/main.asm"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": ["src", "../wic64-library"],
+    "args": [],
+    "compiler": ""
+}
